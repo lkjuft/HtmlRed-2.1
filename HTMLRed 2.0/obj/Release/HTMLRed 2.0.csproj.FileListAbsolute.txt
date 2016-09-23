@@ -1,0 +1,10 @@
+c:\users\anton\documents\visual studio 2015\Projects\HTMLRed 2.0\HTMLRed 2.0\bin\Release\HTMLRed 2.0.exe.config
+c:\users\anton\documents\visual studio 2015\Projects\HTMLRed 2.0\HTMLRed 2.0\bin\Release\HTMLRed 2.0.exe
+c:\users\anton\documents\visual studio 2015\Projects\HTMLRed 2.0\HTMLRed 2.0\bin\Release\HTMLRed 2.0.pdb
+c:\users\anton\documents\visual studio 2015\Projects\HTMLRed 2.0\HTMLRed 2.0\obj\Release\HTMLRed_2._0.BasicForm.resources
+c:\users\anton\documents\visual studio 2015\Projects\HTMLRed 2.0\HTMLRed 2.0\obj\Release\HTMLRed_2._0.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2015\Projects\HTMLRed 2.0\HTMLRed 2.0\obj\Release\HTMLRed_2._0.WebBrowser.resources
+c:\users\anton\documents\visual studio 2015\Projects\HTMLRed 2.0\HTMLRed 2.0\obj\Release\HTMLRed 2.0.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2015\Projects\HTMLRed 2.0\HTMLRed 2.0\obj\Release\HTMLRed 2.0.exe
+c:\users\anton\documents\visual studio 2015\Projects\HTMLRed 2.0\HTMLRed 2.0\obj\Release\HTMLRed 2.0.pdb
+C:\Users\Anton\documents\visual studio 2015\Projects\HTMLRed 2.0\HTMLRed 2.0\obj\Release\HTMLRed 2.0.csprojResolveAssemblyReference.cache
